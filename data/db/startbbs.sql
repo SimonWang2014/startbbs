@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 --
 -- 数据库: `startbbs`
 --
-
+CREATE DATABASE IF NOT EXISTS `startbbs`;
 -- --------------------------------------------------------
 
 --
